@@ -1,0 +1,2 @@
+assertpy==1.0
+allure-pytest==2.6.2
